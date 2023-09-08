@@ -53,29 +53,119 @@ a:hover {
 		z-index: -1;
 		transition: all 0.3s;
 }
-
+.part-2{
+    text-align: center;
+}
 .section-products .single-product:hover .part-1::before {
 		transform: scale(1.2,1.2) rotate(5deg);
 }
 
 .section-products #product-1 .part-1::before {
-    background: url("https://raw.githubusercontent.com/prithvi129/arwachinmithila/main/painting2.jpg") no-repeat center;
+    background: url("../painting/painting1.jpg") no-repeat center;
     background-size: cover;
 		transition: all 0.3s;
 }
 
 .section-products #product-2 .part-1::before {
-    background: url("https://raw.githubusercontent.com/prithvi129/arwachinmithila/main/painting8.jpg") no-repeat center;
+    background: url("../painting/painting2.jpg") no-repeat center;
     background-size: cover;
 }
 
 .section-products #product-3 .part-1::before {
-    background: url("https://raw.githubusercontent.com/prithvi129/arwachinmithila/main/painting9.jpg") no-repeat center;
+    background: url("../painting/painting3.jpg") no-repeat center;
     background-size: cover;
 }
 
 .section-products #product-4 .part-1::before {
-    background: url("https://raw.githubusercontent.com/prithvi129/arwachinmithila/main/painting8.jpg") no-repeat center;
+    background: url("../painting/painting4.jpg") no-repeat center;
+    background-size: cover;
+}
+.section-products #product-5 .part-1::before {
+    background: url("../painting/painting5.jpg") no-repeat center;
+    background-size: cover;
+}
+
+.section-products #product-6 .part-1::before {
+    background: url("../painting/painting6.jpg") no-repeat center;
+    background-size: cover;
+}
+
+
+
+.section-products #product-7 .part-1::before {
+    background: url("../painting/painting7.jpg") no-repeat center;
+    background-size: cover;
+}
+
+.section-products #product-8 .part-1::before {
+    background: url("../painting/painting8.jpg") no-repeat center;
+    background-size: cover;
+}
+
+.section-products #product-9 .part-1::before {
+    background: url("../painting/painting9.jpg") no-repeat center;
+    background-size: cover;
+}
+.section-products #product-10 .part-1::before {
+    background: url("../painting/painting10.jpg") no-repeat center;
+    background-size: cover;
+}
+.section-products #product-11 .part-1::before {
+    background: url("../painting/painting11.jpg") no-repeat center;
+    background-size: cover;
+}
+.section-products #product-12 .part-1::before {
+    background: url("../painting/painting12.jpg") no-repeat center;
+    background-size: cover;
+}
+.section-products #product-13 .part-1::before {
+    background: url("../painting/painting13.jpg") no-repeat center;
+    background-size: cover;
+}
+
+.section-products #product-14 .part-1::before {
+    background: url("../painting/painting14.jpg") no-repeat center;
+    background-size: cover;
+}
+.section-products #product-15 .part-1::before {
+    background: url("../painting/painting15.jpg") no-repeat center;
+    background-size: cover;
+}
+.section-products #product-16 .part-1::before {
+    background: url("../painting/painting16.jpg") no-repeat center;
+    background-size: cover;
+}
+.section-products #product-17 .part-1::before {
+    background: url("../painting/painting17.jpg") no-repeat center;
+    background-size: cover;
+}
+.section-products #product-18 .part-1::before {
+    background: url("../painting/painting18.jpg") no-repeat center;
+    background-size: cover;
+}
+.section-products #product-19 .part-1::before {
+    background: url("../painting/painting19.jpg") no-repeat center;
+    background-size: cover;
+}
+
+.section-products #product-20 .part-1::before {
+    background: url("../painting/painting20.jpg") no-repeat center;
+    background-size: cover;
+}
+.section-products #product-21 .part-1::before {
+    background: url("../painting/painting21.jpg") no-repeat center;
+    background-size: cover;
+}
+.section-products #product-22 .part-1::before {
+    background: url("../painting/painting22.jpg") no-repeat center;
+    background-size: cover;
+}
+.section-products #product-23 .part-1::before {
+    background: url("../painting/painting23.jpg") no-repeat center;
+    background-size: cover;
+}
+.section-products #product-24 .part-1::before {
+    background: url("../painting/painting24.jpg") no-repeat center;
     background-size: cover;
 }
 

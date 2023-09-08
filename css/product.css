@@ -59,31 +59,43 @@ a:hover {
 }
 
 .section-products #product-1 .part-1::before {
-    background: url("https://raw.githubusercontent.com/prithvi129/arwachinmithila/main/painting9.jpg") no-repeat center;
+    background: url("../painting/painting9.jpg") no-repeat center;
     
     background-size: cover;
 		transition: all 0.3s;
 }
 
 .section-products #product-2 .part-1::before {
-    background: url("https://raw.githubusercontent.com/prithvi129/arwachinmithila/main/saree11.jpg") no-repeat center;
+    background: url("../Saree-img/saree11.jpg") no-repeat center;
     
     background-size: cover;
 }
 
 .section-products #product-3 .part-1::before {
-    background: url("https://raw.githubusercontent.com/prithvi129/arwachinmithila/main/silk-suit2.jpg") no-repeat center;
+    background: url("../silk-suit-img/silk-suit2.jpg") no-repeat center;
     
     background-size: cover;
 }
 
 .section-products #product-4 .part-1::before {
-    background: url("https://raw.githubusercontent.com/prithvi129/arwachinmithila/main/dupatta.jpg") no-repeat center;
+    background: url("../dupatta-img/dupatta.jpg") no-repeat center;
     
     background-size: cover;
 }
 
 .section-products #product-5 .part-1::before {
+    background: url("../files-folder/file-img-1.jpg") no-repeat center;
+    
+    background-size: cover;
+}
+
+.section-products #product-6 .part-1::before {
+    background: url("../purse/purse-1.jpg") no-repeat center;
+    
+    background-size: cover;
+}
+
+.section-products #product-7 .part-1::before {
     background: url("https://raw.githubusercontent.com/prithvi129/arwachinmithila/main/plate.jpg") no-repeat center;
     
     background-size: cover;

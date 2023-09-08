@@ -59,50 +59,50 @@ a:hover {
 }
 
 .section-products #product-1 .part-1::before {
-    background: url("https://raw.githubusercontent.com/prithvi129/arwachinmithila/main/saree12.jpg") no-repeat center;
+    background: url("../Saree-img/saree12.jpg") no-repeat center;
     background-size: cover;
 		transition: all 0.3s;
 }
 
 .section-products #product-2 .part-1::before {
-    background: url("https://raw.githubusercontent.com/prithvi129/arwachinmithila/main/saree.jpg") no-repeat center;
+    background: url("../Saree-img/saree.jpg") no-repeat center;
     background-size: cover;
 }
 
 .section-products #product-3 .part-1::before {
-    background: url("https://raw.githubusercontent.com/prithvi129/arwachinmithila/main/saree1.jpg") no-repeat center;
+    background: url("../Saree-img/saree1.jpg") no-repeat center;
     background-size: cover;
 }
 
 .section-products #product-4 .part-1::before {
-    background: url("https://raw.githubusercontent.com/prithvi129/arwachinmithila/main/saree11.jpg") no-repeat center;
+    background: url("../Saree-img/saree11.jpg") no-repeat center;
     background-size: cover;
 }
 
 .section-products #product-5 .part-1::before {
-    background: url("https://raw.githubusercontent.com/prithvi129/arwachinmithila/main/saree123.jpg") no-repeat center;
+    background: url("../Saree-img/saree123.jpg") no-repeat center;
     background-size: cover;
 }
 
 .section-products #product-6 .part-1::before {
-    background: url("https://raw.githubusercontent.com/prithvi129/arwachinmithila/main/saree13.jpg") no-repeat center;
+    background: url("../Saree-img/saree13.jpg") no-repeat center;
     background-size: cover;
 }
 
 
 
 .section-products #product-8 .part-1::before {
-    background: url("https://raw.githubusercontent.com/prithvi129/arwachinmithila/main/saree14.jpg") no-repeat center;
+    background: url("../Saree-img/saree14.jpg") no-repeat center;
     background-size: cover;
 }
 
 .section-products #product-9 .part-1::before {
-    background: url("https://raw.githubusercontent.com/prithvi129/arwachinmithila/main/saree3.jpg") no-repeat center;
+    background: url("../Saree-img/saree3.jpg") no-repeat center;
     background-size: cover;
 }
 
 .section-products #product-10 .part-1::before {
-    background: url("") no-repeat center;
+    background: url("../Saree-img/saree.jpg") no-repeat center;
     background-size: cover;
 }
 
@@ -164,7 +164,9 @@ a:hover {
     font-size: 1rem;
     text-align: center;
 }
-
+.part-2{
+    text-align: center;
+}
 .section-products .single-product .part-2 h4 {
     display: inline-block;
     font-size: 1rem;
