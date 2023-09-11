@@ -42,7 +42,21 @@ a:hover {
     margin-bottom: 20px;
     overflow: hidden;
 }
+@media (max-width: 992px) {
+    .section-products .single-product .part-1 {
+        height: 950px; /* Adjust this value as needed */
+        max-height: 950px;
+        width: 90%;
+        margin-left: 30px;
+    }
+}
 
+/* @media (max-width: 768px){
+    .section-products .single-product .part-1 {
+        height: 600px;
+        width: 300px;
+    }
+} */
 .section-products .single-product .part-1::before {
 		position: absolute;
 		content: "";
@@ -61,7 +75,7 @@ a:hover {
 .section-products #product-1 .part-1::before {
     background: url("../Saree-img/saree12.jpg") no-repeat center;
     background-size: cover;
-		transition: all 0.3s;
+	transition: all 0.3s;
 }
 
 .section-products #product-2 .part-1::before {
